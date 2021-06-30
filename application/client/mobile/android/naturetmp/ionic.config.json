@@ -1,0 +1,7 @@
+{
+  "name": "naturetmp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
